@@ -1,0 +1,11 @@
+Factory_ID,Machine_ID,Energy_Consumption,Material_Usage,Waste_Generated,Carbon_Emissions,Production_Capacity,Reconfiguration_Time,Downtime,AI_Optimization_Applied,IoT_Enabled,Predictive_Maintenance,Digital_Twin_Used,Optimum_Value_for_Tool_Change,Optimum_Value_for_Setup_Change
+F5,M202,183,231,19,33,159,57,27,Yes,Yes,Yes,No,14,22
+F10,M448,250,476,41,52,259,36,11,Yes,Yes,No,No,26,42
+F7,M370,227,219,43,77,262,33,16,No,Yes,No,Yes,10,24
+F17,M206,225,353,18,77,199,44,12,Yes,No,No,Yes,21,40
+F7,M171,144,267,26,30,161,55,9,Yes,Yes,No,No,25,24
+F12,M288,151,413,20,54,238,51,14,No,Yes,Yes,No,26,19
+F17,M120,179,342,41,31,261,48,25,No,Yes,No,No,28,24
+F13,M202,277,431,19,59,227,35,9,No,Yes,Yes,No,21,32
+F20,M221,223,412,31,32,270,58,21,Yes,Yes,No,Yes,25,35
+F4,M314,218,278,26,50,172,47,9,Yes,Yes,No,No,23,38
