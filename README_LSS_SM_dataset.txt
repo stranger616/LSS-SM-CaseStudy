@@ -29,4 +29,4 @@ This repository includes a sample from the dataset used in the case study for th
 
 ## 📌 Note
 
-This dataset is anonymized and for illustrative purposes only. It is derived from a larger dataset used in our case study to demonstrate sustainability integration in Lean Six Sigma practices.
+This dataset is collected from many different sites and for illustrative purposes only. It is derived from a larger dataset used in our case study to demonstrate sustainability integration in Lean Six Sigma practices.
